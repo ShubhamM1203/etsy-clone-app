@@ -1,4 +1,4 @@
-# Et-Setera
+# etsy-clone-app
 
 
 A mock E-Commerce site in which you can see multiple "pages" (all products, each products in a given cateogry, a detailed single product screen, and a cart screen) all in one single page app.
